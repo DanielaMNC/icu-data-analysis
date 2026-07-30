@@ -1,0 +1,301 @@
+patient_id,age,diagnosis,length_of_stay_days,mechanical_ventilation,outcome,readmission
+1,32,Pneumonia,18,Yes,Discharged,Yes
+2,87,Pneumonia,28,Yes,Discharged,No
+3,21,Trauma,13,No,Discharged,No
+4,75,Trauma,18,No,Discharged,No
+5,72,Postoperative Care,18,Yes,Death,No
+6,29,Respiratory Failure,7,Yes,Discharged,No
+7,23,Respiratory Failure,35,Yes,Death,Yes
+8,55,Trauma,24,No,Discharged,Yes
+9,47,Postoperative Care,6,No,Discharged,No
+10,76,Postoperative Care,11,Yes,Discharged,No
+11,27,Trauma,11,No,Discharged,No
+12,52,Trauma,15,No,Discharged,No
+13,47,Pneumonia,21,Yes,Discharged,No
+14,90,Postoperative Care,14,No,Discharged,No
+15,76,Sepsis,17,Yes,Discharged,No
+16,92,Respiratory Failure,26,Yes,Death,No
+17,81,Pneumonia,4,No,Discharged,No
+18,72,Trauma,5,Yes,Discharged,No
+19,50,Trauma,1,No,Discharged,No
+20,52,Postoperative Care,8,Yes,Discharged,Yes
+21,51,Trauma,12,No,Discharged,No
+22,82,Trauma,13,Yes,Death,No
+23,85,Pneumonia,21,No,Discharged,No
+24,57,Sepsis,4,Yes,Discharged,Yes
+25,80,Pneumonia,35,No,Discharged,No
+26,88,Sepsis,17,No,Discharged,No
+27,87,Sepsis,20,Yes,Discharged,No
+28,84,Respiratory Failure,8,Yes,Discharged,Yes
+29,88,Sepsis,15,Yes,Discharged,Yes
+30,26,Pneumonia,22,Yes,Discharged,No
+31,45,Trauma,9,No,Discharged,No
+32,49,Respiratory Failure,27,Yes,Discharged,No
+33,72,Respiratory Failure,30,No,Discharged,No
+34,30,Pneumonia,26,No,Discharged,Yes
+35,42,Sepsis,35,No,Discharged,No
+36,49,Pneumonia,29,No,Discharged,Yes
+37,87,Pneumonia,6,No,Discharged,No
+38,80,Respiratory Failure,14,No,Death,No
+39,18,Respiratory Failure,17,No,Discharged,No
+40,89,Respiratory Failure,10,Yes,Discharged,Yes
+41,87,Pneumonia,21,Yes,Discharged,No
+42,85,Sepsis,4,No,Discharged,No
+43,94,Pneumonia,16,Yes,Death,No
+44,92,Trauma,3,No,Discharged,No
+45,84,Postoperative Care,17,Yes,Discharged,No
+46,68,Sepsis,20,No,Death,No
+47,19,Respiratory Failure,7,Yes,Discharged,No
+48,62,Pneumonia,16,Yes,Discharged,No
+49,56,Trauma,34,Yes,Death,No
+50,31,Sepsis,17,Yes,Discharged,No
+51,52,Postoperative Care,14,No,Discharged,No
+52,51,Trauma,32,Yes,Death,Yes
+53,72,Postoperative Care,3,Yes,Death,No
+54,51,Sepsis,29,No,Discharged,Yes
+55,27,Sepsis,35,Yes,Discharged,No
+56,73,Sepsis,3,Yes,Death,No
+57,23,Postoperative Care,14,No,Discharged,No
+58,89,Respiratory Failure,10,No,Discharged,No
+59,40,Respiratory Failure,2,Yes,Death,No
+60,70,Sepsis,18,Yes,Discharged,No
+61,22,Respiratory Failure,15,Yes,Death,No
+62,47,Sepsis,2,No,Discharged,No
+63,26,Postoperative Care,23,No,Discharged,No
+64,86,Postoperative Care,2,Yes,Death,No
+65,51,Pneumonia,7,No,Discharged,No
+66,73,Trauma,33,Yes,Death,No
+67,23,Respiratory Failure,1,No,Discharged,No
+68,43,Postoperative Care,28,Yes,Discharged,No
+69,58,Pneumonia,20,No,Discharged,No
+70,55,Trauma,9,Yes,Discharged,No
+71,40,Trauma,20,Yes,Death,No
+72,44,Respiratory Failure,21,No,Discharged,No
+73,78,Sepsis,6,Yes,Discharged,No
+74,29,Sepsis,20,Yes,Discharged,Yes
+75,49,Respiratory Failure,5,No,Discharged,No
+76,67,Respiratory Failure,26,Yes,Discharged,Yes
+77,31,Respiratory Failure,15,Yes,Death,No
+78,24,Trauma,16,No,Discharged,No
+79,77,Trauma,21,No,Discharged,No
+80,82,Respiratory Failure,29,No,Discharged,No
+81,51,Sepsis,18,No,Discharged,No
+82,53,Respiratory Failure,5,No,Discharged,No
+83,87,Pneumonia,9,Yes,Discharged,No
+84,45,Pneumonia,27,Yes,Discharged,No
+85,44,Respiratory Failure,25,No,Discharged,No
+86,91,Respiratory Failure,31,Yes,Discharged,No
+87,71,Trauma,35,No,Discharged,No
+88,52,Respiratory Failure,32,Yes,Discharged,No
+89,69,Sepsis,30,No,Death,No
+90,68,Trauma,2,Yes,Discharged,No
+91,41,Pneumonia,17,Yes,Discharged,No
+92,66,Postoperative Care,27,Yes,Discharged,Yes
+93,87,Pneumonia,23,Yes,Discharged,No
+94,23,Pneumonia,16,Yes,Discharged,No
+95,34,Respiratory Failure,8,No,Discharged,No
+96,65,Sepsis,8,No,Discharged,No
+97,92,Pneumonia,20,No,Death,No
+98,43,Pneumonia,16,Yes,Death,No
+99,94,Pneumonia,3,Yes,Discharged,No
+100,82,Postoperative Care,1,No,Discharged,Yes
+101,64,Respiratory Failure,10,Yes,Discharged,No
+102,52,Trauma,35,No,Discharged,No
+103,93,Postoperative Care,21,No,Discharged,Yes
+104,75,Sepsis,30,No,Discharged,No
+105,81,Postoperative Care,12,No,Discharged,No
+106,53,Trauma,18,No,Discharged,No
+107,48,Respiratory Failure,32,No,Discharged,No
+108,80,Respiratory Failure,2,Yes,Discharged,No
+109,57,Trauma,24,No,Discharged,No
+110,88,Postoperative Care,23,No,Discharged,No
+111,33,Sepsis,21,Yes,Discharged,No
+112,41,Sepsis,14,No,Discharged,No
+113,85,Trauma,19,No,Discharged,No
+114,64,Sepsis,20,Yes,Discharged,No
+115,24,Trauma,19,No,Discharged,No
+116,80,Pneumonia,1,No,Discharged,No
+117,41,Pneumonia,17,No,Discharged,No
+118,69,Respiratory Failure,5,No,Discharged,No
+119,90,Postoperative Care,6,No,Discharged,No
+120,94,Trauma,15,No,Discharged,No
+121,56,Trauma,28,Yes,Discharged,No
+122,30,Sepsis,14,Yes,Discharged,No
+123,88,Pneumonia,11,Yes,Discharged,No
+124,55,Pneumonia,15,Yes,Discharged,No
+125,27,Sepsis,17,No,Discharged,No
+126,43,Respiratory Failure,8,No,Discharged,No
+127,36,Pneumonia,4,Yes,Discharged,No
+128,90,Postoperative Care,29,Yes,Discharged,No
+129,52,Trauma,35,No,Discharged,Yes
+130,73,Postoperative Care,17,Yes,Discharged,No
+131,91,Trauma,2,No,Discharged,No
+132,23,Sepsis,31,No,Discharged,No
+133,92,Respiratory Failure,32,No,Discharged,No
+134,59,Pneumonia,11,Yes,Discharged,No
+135,69,Trauma,3,No,Discharged,No
+136,69,Trauma,1,No,Discharged,No
+137,42,Trauma,24,No,Discharged,No
+138,24,Sepsis,18,No,Death,No
+139,80,Pneumonia,2,No,Discharged,No
+140,38,Postoperative Care,1,No,Discharged,No
+141,32,Respiratory Failure,8,No,Discharged,No
+142,55,Trauma,18,Yes,Discharged,No
+143,76,Trauma,10,Yes,Death,No
+144,35,Pneumonia,18,No,Discharged,No
+145,82,Postoperative Care,1,Yes,Discharged,No
+146,80,Sepsis,29,No,Discharged,No
+147,87,Respiratory Failure,30,No,Discharged,No
+148,48,Trauma,25,Yes,Death,Yes
+149,78,Respiratory Failure,25,No,Discharged,No
+150,37,Respiratory Failure,3,Yes,Death,No
+151,30,Respiratory Failure,7,No,Discharged,No
+152,70,Sepsis,5,No,Death,No
+153,68,Pneumonia,22,No,Discharged,No
+154,58,Respiratory Failure,35,Yes,Discharged,No
+155,54,Sepsis,6,Yes,Discharged,No
+156,30,Respiratory Failure,11,No,Death,Yes
+157,25,Postoperative Care,23,Yes,Discharged,No
+158,90,Sepsis,11,Yes,Discharged,No
+159,48,Respiratory Failure,10,Yes,Discharged,No
+160,19,Respiratory Failure,19,No,Discharged,No
+161,62,Trauma,20,No,Discharged,No
+162,56,Sepsis,25,No,Discharged,No
+163,63,Trauma,19,No,Discharged,No
+164,68,Postoperative Care,1,No,Discharged,No
+165,24,Trauma,32,No,Death,No
+166,47,Trauma,23,Yes,Discharged,No
+167,35,Pneumonia,3,Yes,Discharged,No
+168,34,Pneumonia,19,Yes,Discharged,No
+169,87,Postoperative Care,34,No,Discharged,No
+170,79,Postoperative Care,22,No,Discharged,Yes
+171,46,Respiratory Failure,24,Yes,Discharged,No
+172,33,Respiratory Failure,24,No,Discharged,No
+173,65,Pneumonia,15,No,Discharged,No
+174,59,Trauma,15,No,Discharged,No
+175,56,Respiratory Failure,8,Yes,Death,No
+176,81,Pneumonia,7,Yes,Discharged,No
+177,65,Trauma,27,No,Discharged,No
+178,30,Respiratory Failure,27,No,Discharged,No
+179,45,Respiratory Failure,29,No,Discharged,Yes
+180,65,Trauma,23,Yes,Discharged,No
+181,76,Pneumonia,14,No,Discharged,Yes
+182,60,Sepsis,9,No,Discharged,No
+183,88,Sepsis,14,No,Discharged,No
+184,94,Pneumonia,18,No,Discharged,Yes
+185,50,Sepsis,8,No,Discharged,Yes
+186,48,Trauma,21,Yes,Discharged,Yes
+187,71,Trauma,8,No,Discharged,No
+188,83,Trauma,7,No,Discharged,No
+189,84,Postoperative Care,30,No,Discharged,No
+190,69,Respiratory Failure,7,No,Death,Yes
+191,28,Postoperative Care,10,Yes,Discharged,No
+192,88,Postoperative Care,25,No,Discharged,No
+193,73,Pneumonia,8,No,Discharged,No
+194,45,Respiratory Failure,29,No,Discharged,No
+195,69,Respiratory Failure,7,Yes,Discharged,No
+196,37,Respiratory Failure,5,Yes,Discharged,No
+197,65,Sepsis,4,No,Discharged,No
+198,33,Respiratory Failure,23,No,Death,No
+199,24,Postoperative Care,20,Yes,Discharged,No
+200,79,Sepsis,7,Yes,Discharged,Yes
+201,53,Trauma,15,No,Discharged,No
+202,89,Pneumonia,18,Yes,Discharged,No
+203,61,Postoperative Care,1,Yes,Discharged,No
+204,26,Sepsis,2,Yes,Discharged,No
+205,76,Postoperative Care,11,Yes,Discharged,No
+206,90,Trauma,6,No,Discharged,No
+207,24,Pneumonia,18,No,Discharged,No
+208,71,Postoperative Care,14,No,Discharged,No
+209,54,Trauma,32,No,Discharged,No
+210,94,Pneumonia,1,Yes,Death,No
+211,50,Postoperative Care,21,Yes,Discharged,No
+212,34,Respiratory Failure,35,No,Discharged,No
+213,63,Pneumonia,26,No,Discharged,Yes
+214,27,Postoperative Care,28,No,Discharged,No
+215,32,Respiratory Failure,2,No,Discharged,No
+216,76,Postoperative Care,6,Yes,Discharged,No
+217,69,Trauma,6,Yes,Discharged,No
+218,60,Sepsis,5,No,Discharged,No
+219,62,Postoperative Care,10,Yes,Discharged,No
+220,37,Pneumonia,12,No,Discharged,No
+221,90,Trauma,29,No,Discharged,No
+222,59,Postoperative Care,10,Yes,Discharged,No
+223,53,Trauma,4,Yes,Discharged,No
+224,22,Pneumonia,24,No,Discharged,No
+225,29,Trauma,33,Yes,Discharged,No
+226,23,Respiratory Failure,13,Yes,Discharged,No
+227,25,Respiratory Failure,7,No,Discharged,No
+228,28,Trauma,12,Yes,Discharged,No
+229,85,Trauma,11,Yes,Death,No
+230,61,Trauma,4,No,Discharged,Yes
+231,30,Trauma,25,Yes,Discharged,No
+232,37,Postoperative Care,6,No,Discharged,No
+233,68,Sepsis,6,Yes,Discharged,No
+234,34,Trauma,6,No,Discharged,No
+235,64,Postoperative Care,12,No,Discharged,No
+236,42,Sepsis,9,Yes,Discharged,No
+237,82,Trauma,34,Yes,Discharged,No
+238,34,Trauma,25,Yes,Discharged,No
+239,39,Respiratory Failure,3,Yes,Discharged,No
+240,74,Trauma,19,No,Discharged,No
+241,48,Postoperative Care,31,No,Discharged,No
+242,91,Respiratory Failure,30,No,Discharged,No
+243,71,Sepsis,13,No,Discharged,No
+244,79,Postoperative Care,7,No,Discharged,Yes
+245,28,Sepsis,18,No,Discharged,No
+246,29,Sepsis,29,No,Death,No
+247,68,Trauma,24,Yes,Death,No
+248,21,Postoperative Care,7,No,Discharged,No
+249,35,Pneumonia,19,No,Discharged,No
+250,78,Respiratory Failure,1,No,Discharged,No
+251,37,Trauma,34,Yes,Death,No
+252,33,Pneumonia,16,Yes,Death,No
+253,32,Respiratory Failure,35,Yes,Discharged,No
+254,36,Postoperative Care,28,Yes,Discharged,No
+255,41,Pneumonia,34,No,Discharged,No
+256,82,Trauma,2,Yes,Discharged,No
+257,65,Postoperative Care,2,Yes,Discharged,No
+258,31,Trauma,22,Yes,Discharged,No
+259,40,Respiratory Failure,31,No,Discharged,Yes
+260,76,Pneumonia,19,Yes,Death,No
+261,58,Postoperative Care,33,Yes,Death,No
+262,22,Sepsis,19,Yes,Death,No
+263,60,Postoperative Care,8,No,Discharged,No
+264,74,Respiratory Failure,22,No,Discharged,No
+265,84,Postoperative Care,6,No,Discharged,No
+266,41,Trauma,19,Yes,Discharged,No
+267,57,Respiratory Failure,28,Yes,Discharged,No
+268,63,Trauma,28,Yes,Death,No
+269,27,Respiratory Failure,24,No,Discharged,No
+270,21,Sepsis,29,Yes,Discharged,No
+271,64,Postoperative Care,25,No,Discharged,No
+272,75,Postoperative Care,24,No,Discharged,No
+273,64,Respiratory Failure,21,No,Discharged,Yes
+274,41,Respiratory Failure,34,Yes,Discharged,No
+275,51,Respiratory Failure,14,No,Discharged,No
+276,80,Sepsis,8,Yes,Discharged,No
+277,74,Pneumonia,21,No,Discharged,No
+278,55,Postoperative Care,11,No,Death,No
+279,64,Trauma,15,Yes,Discharged,No
+280,81,Pneumonia,24,No,Discharged,No
+281,88,Sepsis,6,Yes,Discharged,No
+282,79,Trauma,27,No,Discharged,Yes
+283,58,Pneumonia,29,No,Discharged,Yes
+284,88,Trauma,12,No,Discharged,No
+285,25,Pneumonia,34,Yes,Discharged,No
+286,46,Postoperative Care,34,No,Discharged,No
+287,88,Postoperative Care,9,No,Discharged,Yes
+288,39,Trauma,10,Yes,Discharged,No
+289,61,Trauma,3,No,Discharged,Yes
+290,91,Postoperative Care,14,No,Discharged,No
+291,81,Trauma,19,No,Discharged,No
+292,69,Postoperative Care,30,Yes,Discharged,No
+293,79,Respiratory Failure,14,Yes,Discharged,No
+294,58,Postoperative Care,26,Yes,Discharged,No
+295,58,Sepsis,30,Yes,Discharged,No
+296,24,Postoperative Care,25,No,Discharged,No
+297,38,Postoperative Care,21,Yes,Discharged,No
+298,77,Respiratory Failure,20,No,Discharged,No
+299,76,Sepsis,14,No,Discharged,No
+300,94,Respiratory Failure,19,No,Discharged,No

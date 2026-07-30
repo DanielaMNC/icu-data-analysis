@@ -1,0 +1,7 @@
+metric,value
+total_patients,300.0
+average_age,58.2
+average_length_of_stay,16.9
+mortality_rate,13.7
+mechanical_ventilation_rate,45.0
+readmission_rate,12.3
