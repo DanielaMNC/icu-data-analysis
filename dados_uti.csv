@@ -1,0 +1,151 @@
+id_paciente,idade,diagnostico,dias_internacao,ventilacao_mecanica,desfecho,reinternacao
+1,32,Pneumonia,24,Não,Alta,Sim
+2,31,Trauma,3,Não,Alta,Sim
+3,47,Trauma,20,Sim,Alta,Não
+4,87,Insuficiência respiratória,8,Não,Alta,Não
+5,18,Sepse,23,Não,Alta,Não
+6,61,Pneumonia,3,Não,Alta,Não
+7,51,Pneumonia,24,Não,Alta,Não
+8,66,Pneumonia,18,Não,Óbito,Não
+9,64,Trauma,7,Sim,Alta,Não
+10,55,Pneumonia,28,Sim,Óbito,Não
+11,76,Pós-operatório,6,Não,Alta,Não
+12,27,Trauma,21,Sim,Alta,Não
+13,77,Insuficiência respiratória,9,Sim,Alta,Não
+14,25,Sepse,27,Sim,Alta,Não
+15,26,Sepse,19,Não,Alta,Não
+16,76,Sepse,9,Sim,Alta,Não
+17,51,Trauma,14,Não,Alta,Não
+18,35,Trauma,16,Sim,Alta,Não
+19,37,Sepse,26,Não,Alta,Não
+20,77,Trauma,9,Sim,Alta,Sim
+21,86,Pós-operatório,25,Não,Alta,Não
+22,76,Pneumonia,24,Não,Óbito,Não
+23,82,Pneumonia,28,Não,Óbito,Não
+24,43,Sepse,12,Sim,Alta,Não
+25,85,Pneumonia,20,Não,Alta,Sim
+26,64,Pós-operatório,8,Sim,Alta,Não
+27,28,Pneumonia,24,Não,Alta,Não
+28,86,Sepse,5,Não,Óbito,Não
+29,85,Trauma,14,Sim,Óbito,Não
+30,43,Pós-operatório,13,Não,Alta,Não
+31,33,Sepse,8,Sim,Alta,Não
+32,47,Trauma,8,Sim,Alta,Não
+33,47,Pneumonia,2,Não,Alta,Não
+34,80,Sepse,18,Sim,Alta,Não
+35,91,Insuficiência respiratória,8,Não,Alta,Não
+36,30,Insuficiência respiratória,12,Não,Alta,Não
+37,24,Pneumonia,2,Não,Alta,Não
+38,31,Sepse,7,Sim,Alta,Não
+39,41,Pós-operatório,15,Sim,Óbito,Sim
+40,88,Pneumonia,2,Sim,Óbito,Não
+41,48,Sepse,14,Não,Alta,Não
+42,25,Sepse,13,Sim,Óbito,Não
+43,76,Pós-operatório,14,Não,Alta,Não
+44,25,Trauma,24,Sim,Alta,Sim
+45,92,Insuficiência respiratória,17,Sim,Alta,Não
+46,41,Pneumonia,20,Sim,Alta,Não
+47,33,Trauma,8,Sim,Alta,Não
+48,92,Trauma,17,Não,Óbito,Não
+49,58,Sepse,9,Não,Alta,Não
+50,76,Pós-operatório,25,Sim,Alta,Não
+51,90,Pneumonia,3,Sim,Alta,Sim
+52,62,Pneumonia,8,Não,Alta,Não
+53,87,Pós-operatório,20,Sim,Alta,Não
+54,31,Sepse,9,Sim,Óbito,Não
+55,37,Pós-operatório,10,Sim,Alta,Não
+56,51,Trauma,16,Não,Óbito,Não
+57,29,Insuficiência respiratória,27,Não,Alta,Não
+58,34,Pós-operatório,6,Não,Alta,Não
+59,19,Pneumonia,3,Sim,Alta,Não
+60,92,Trauma,5,Não,Alta,Não
+61,23,Pós-operatório,7,Sim,Alta,Não
+62,89,Insuficiência respiratória,20,Sim,Óbito,Não
+63,38,Sepse,14,Sim,Alta,Não
+64,70,Sepse,9,Sim,Alta,Sim
+65,22,Insuficiência respiratória,8,Sim,Alta,Não
+66,57,Sepse,8,Sim,Alta,Não
+67,53,Pneumonia,25,Não,Alta,Não
+68,86,Pós-operatório,1,Sim,Óbito,Não
+69,92,Pós-operatório,2,Sim,Alta,Não
+70,58,Insuficiência respiratória,20,Sim,Alta,Não
+71,50,Pneumonia,23,Não,Alta,Não
+72,86,Sepse,12,Não,Alta,Não
+73,60,Trauma,11,Sim,Alta,Não
+74,57,Insuficiência respiratória,11,Não,Alta,Não
+75,42,Insuficiência respiratória,22,Não,Alta,Não
+76,90,Pós-operatório,13,Sim,Alta,Não
+77,92,Trauma,21,Não,Alta,Não
+78,45,Trauma,16,Sim,Alta,Não
+79,60,Pneumonia,27,Sim,Alta,Não
+80,43,Sepse,1,Sim,Alta,Não
+81,27,Insuficiência respiratória,14,Sim,Alta,Não
+82,69,Sepse,5,Sim,Óbito,Não
+83,31,Insuficiência respiratória,8,Sim,Alta,Não
+84,77,Pneumonia,18,Sim,Óbito,Sim
+85,35,Insuficiência respiratória,22,Não,Óbito,Não
+86,82,Insuficiência respiratória,27,Não,Óbito,Não
+87,78,Insuficiência respiratória,9,Sim,Óbito,Não
+88,84,Insuficiência respiratória,21,Sim,Alta,Sim
+89,54,Sepse,9,Não,Alta,Não
+90,35,Sepse,8,Não,Alta,Não
+91,26,Insuficiência respiratória,14,Não,Alta,Não
+92,44,Insuficiência respiratória,13,Sim,Óbito,Não
+93,66,Insuficiência respiratória,1,Não,Alta,Não
+94,71,Trauma,24,Sim,Alta,Não
+95,80,Pneumonia,13,Não,Alta,Não
+96,39,Insuficiência respiratória,5,Sim,Óbito,Não
+97,21,Pneumonia,21,Não,Alta,Não
+98,24,Pós-operatório,13,Não,Alta,Não
+99,66,Pós-operatório,25,Não,Alta,Sim
+100,20,Trauma,2,Não,Alta,Sim
+101,23,Pneumonia,8,Sim,Óbito,Não
+102,48,Sepse,16,Sim,Alta,Não
+103,50,Pós-operatório,6,Sim,Alta,Não
+104,57,Pneumonia,19,Sim,Óbito,Não
+105,66,Insuficiência respiratória,23,Sim,Alta,Não
+106,49,Pneumonia,23,Não,Óbito,Não
+107,33,Trauma,26,Sim,Alta,Não
+108,65,Pneumonia,17,Não,Alta,Não
+109,80,Pneumonia,14,Não,Alta,Não
+110,37,Insuficiência respiratória,6,Não,Alta,Não
+111,79,Insuficiência respiratória,14,Não,Alta,Não
+112,29,Pós-operatório,15,Sim,Alta,Não
+113,66,Pós-operatório,1,Não,Óbito,Não
+114,45,Pós-operatório,26,Não,Alta,Não
+115,53,Trauma,1,Sim,Alta,Não
+116,80,Trauma,25,Sim,Alta,Não
+117,80,Insuficiência respiratória,26,Sim,Alta,Não
+118,49,Pós-operatório,22,Não,Alta,Não
+119,72,Trauma,11,Não,Alta,Não
+120,50,Sepse,4,Sim,Alta,Não
+121,41,Sepse,7,Não,Alta,Não
+122,85,Trauma,10,Sim,Óbito,Não
+123,64,Sepse,10,Sim,Alta,Sim
+124,23,Pneumonia,18,Não,Alta,Sim
+125,80,Pneumonia,28,Sim,Alta,Não
+126,74,Pós-operatório,6,Sim,Alta,Não
+127,32,Pneumonia,13,Não,Alta,Não
+128,24,Sepse,5,Não,Alta,Não
+129,89,Insuficiência respiratória,20,Sim,Alta,Não
+130,74,Pós-operatório,28,Não,Alta,Não
+131,30,Sepse,21,Sim,Alta,Sim
+132,48,Sepse,18,Sim,Alta,Não
+133,78,Pós-operatório,2,Sim,Alta,Não
+134,76,Pneumonia,22,Sim,Óbito,Não
+135,43,Insuficiência respiratória,4,Sim,Alta,Não
+136,36,Pneumonia,2,Sim,Alta,Não
+137,90,Pós-operatório,15,Sim,Alta,Não
+138,69,Pós-operatório,17,Não,Alta,Não
+139,73,Pós-operatório,20,Não,Alta,Não
+140,91,Trauma,1,Não,Alta,Não
+141,40,Insuficiência respiratória,17,Não,Óbito,Não
+142,92,Insuficiência respiratória,21,Não,Óbito,Não
+143,70,Pós-operatório,11,Sim,Óbito,Não
+144,81,Pós-operatório,22,Não,Alta,Não
+145,76,Pneumonia,11,Não,Alta,Não
+146,69,Trauma,27,Sim,Alta,Não
+147,70,Pneumonia,7,Não,Alta,Não
+148,74,Pneumonia,7,Não,Alta,Não
+149,74,Insuficiência respiratória,4,Sim,Óbito,Não
+150,48,Sepse,10,Sim,Alta,Sim
